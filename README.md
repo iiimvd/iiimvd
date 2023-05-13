@@ -3,14 +3,32 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiimvd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=iiimvd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iiimvd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://media2.giphy.com/media/EjDUHwO6ZrorKnt2tA/giphy.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/siPjg1antRzDWRr4Gc/200w.gif?cid=6c09b952te7ocd04p9u6d4trom2utiifksshy5czxq33xitj&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<p align="left">🖊️ About Me :</p>
+
+###
+
+<h4 align="left">💻 Currents Projects :<br>└🤡 ClownShield<br><br>💻second project :<br>└🤖 Discord bot opensource</h4>
+
+###
+
+<p align="left">⭐My social media</p>
+
+###
+
+<div align="left">
+  <a href="https://discord.gg/ePFwzTVP5R" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">⚔️ My skills</p>
 
 ###
 
@@ -29,18 +47,26 @@
 
 ###
 
-<div align="left">
-  <a href="https://discord.gg/ePFwzTVP5R" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+<p align="left">🎵 Spotify</p>
 
 ###
 
 <div align="left">
   <a href="https://open.spotify.com/user/jgkhjdsf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=imad_mrc" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<p align="left">📈 My stats GitHub</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iiimvd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=iiimvd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iiimvd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
