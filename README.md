@@ -37,15 +37,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iiimvd/iiimvd/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/jgkhjdsf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=imad_mrc&count={count})" alt="Spotify recently played"  />
   </a>
 </div>
 
