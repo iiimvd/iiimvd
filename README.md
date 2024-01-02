@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">💻 Currents Projects :<br>└🤡 ClownShield<br><br>💻second project :<br>└🤖 Discord bot opensource</h4>
+<h4 align="left">💻 Currents Projects :<br>└☔ SecurGate<br><br>💻second project :<br>└🤖 Discord bot opensource</h4>
 
 ###
 
